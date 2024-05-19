@@ -1,0 +1,33 @@
+body {
+    font-family: sans-serif;
+}
+
+#form-penjumlahan {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    margin: 0 auto;
+}
+
+#form-penjumlahan label {
+    margin-bottom: 5px;
+}
+
+#form-penjumlahan input {
+    padding: 5px;
+    border: 1px solid #ccc;
+}
+
+#hitung-button {
+    background-color: #007bff;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#hasil {
+    margin-top: 20px;
+    text-align: center;
+}
