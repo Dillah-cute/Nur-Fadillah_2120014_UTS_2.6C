@@ -1,0 +1,2 @@
+# Nur-Fadillah_2120014_UTS_2.6C
+UTS TUGAS PRAKTEK
